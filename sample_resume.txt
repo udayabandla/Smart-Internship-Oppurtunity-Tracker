@@ -1,0 +1,1 @@
+Rahul Sharma - Senior Software Engineering Student. Skills: Java, Spring Boot, Hibernate, MySQL, REST API, React, Docker, Kubernetes, AWS, Git, CI/CD, Python, Linux. Experience building enterprise microservices.
